@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-https://github.com/user-attachments/assets/c94175a2-7899-4442-8939-b4a122d70b33
+https://github.com/user-attachments/assets/00e747d9-1b37-4097-b8d2-adac87326792
 
 A robust multi-camera person re-identification system combining YOLOv8, DeepSort, and custom ReID models for real-time tracking across multiple video streams.
 
