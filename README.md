@@ -9,7 +9,7 @@ A robust multi-camera person re-identification system combining YOLOv8, DeepSort
 
 ---
 
-## 🌟 Key Features
+## Key Features
 - **Multi-Camera Tracking**: Process up to 4 simultaneous video streams
 - **Spatiotemporal ReID**: Hybrid cosine/euclidean distance matching with temporal consistency
 - **Real-Time Processing**: GPU-accelerated with fallback to CPU-optimized models
@@ -22,7 +22,7 @@ A robust multi-camera person re-identification system combining YOLOv8, DeepSort
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 ```bash
 project/
 ├── config.yaml # Configuration settings
@@ -37,7 +37,7 @@ project/
 └── requirements.txt # Dependencie
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 ```bash
@@ -63,7 +63,7 @@ Select input/output folders
 Adjust matching threshold (0.0-1.0)
 Start/stop processing
 Rename tracked IDs
-Save/load identity features
+Save/load identity features (functions only on click)
 
 ##🎥 Video Demonstrations
 
@@ -74,7 +74,7 @@ Save/load identity features
 
 
 
-## 🤖 Model Training
+## Model Training
 ```python
 # ReID Model Training
 import torchreid
@@ -161,7 +161,7 @@ results = model.train(
     batch=16
 )
 ```
-## 🔧 Configuration
+## Configuration
 Edit config.yaml to modify:
 ```python
 # config.yaml
@@ -180,20 +180,20 @@ temporal_frames: 3
 frame_interval: 0.033
 ```
 
-## 📝 License
+## License
 This project is MIT licensed. See LICENSE for details.
 
-## 🤝 Contributing
+## Contributing
 Fork repository
 Create feature branch (git checkout -b feature/amazing-feature)
 Commit changes (git commit -m 'Add some amazing feature')
 Push branch (git push origin feature/amazing-feature)
 Open pull request
 
-## 📧 Contact
+## Contact
 Baseer Hassan - baseerhassan512@gmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 Ultralytics for YOLOv8
 TorchReID for ReID models
 DeepSort for tracking
