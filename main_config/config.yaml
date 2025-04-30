@@ -1,0 +1,41 @@
+# Model Configuration
+models:
+  yolo: 'yolov8n.pt'
+  reid_gpu: 'resnet50'
+  reid_cpu: 'osnet_x1_0'
+  reid_num_classes: 751
+
+# ReID Parameters
+reid:
+  alpha: 0.3
+  threshold: 0.6
+  temporal_frames: 3
+  max_gallery_size: 512
+  height: 256
+  width: 128
+  norm_mean: [0.485, 0.456, 0.406]
+  norm_std: [0.229, 0.224, 0.225]
+
+# Tracker Parameters
+tracker:
+  max_age: 30
+  n_init: 2
+  max_cosine_distance: 0.4
+  nn_budget: 50
+
+# Detection Parameters
+detection:
+  confidence_threshold: 0.3
+  person_class_id: 0
+
+# Paths
+paths:
+  embeddings_dir: 'embeddings'
+
+# Video Processing
+video:
+  supported_formats: ['.mp4', '.avi']
+  max_videos: 4
+  display:
+    max_width: 400
+    max_height: 300

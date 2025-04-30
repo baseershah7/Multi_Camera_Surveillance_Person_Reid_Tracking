@@ -1,0 +1,15 @@
+project/
+├── config.yaml
+├── main.py
+├── reid/
+│   ├── __init__.py
+│   ├── st_reid.py
+│   ├── feature_storage.py
+│   └── utils.py
+├── tracking/
+│   ├── __init__.py
+│   └── video_processor.py
+├── ui/
+│   ├── __init__.py
+│   └── multi_camera_gui.py
+└── requirements.txt

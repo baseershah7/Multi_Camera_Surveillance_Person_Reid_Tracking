@@ -1,0 +1,31 @@
+2025-04-19 00:37:01,689 INFO: Loaded ReID model osnet_ain_x1_0 on cuda
+2025-04-19 00:37:19,382 INFO: MobileNetV2 Embedder for Deep Sort initialised
+2025-04-19 00:37:19,383 INFO: - gpu enabled: True
+2025-04-19 00:37:19,383 INFO: - half precision: True
+2025-04-19 00:37:19,383 INFO: - max batch size: 16
+2025-04-19 00:37:19,383 INFO: - expects BGR: True
+2025-04-19 00:37:19,621 INFO: DeepSort Tracker initialised
+2025-04-19 00:37:19,621 INFO: - max age: 30
+2025-04-19 00:37:19,622 INFO: - appearance threshold: 0.4
+2025-04-19 00:37:19,622 INFO: - nms threshold: OFF
+2025-04-19 00:37:19,622 INFO: - max num of appearance features: 50
+2025-04-19 00:37:19,622 INFO: - overriding track class : No
+2025-04-19 00:37:19,622 INFO: - today given : No
+2025-04-19 00:37:19,622 INFO: - in-build embedder : Yes
+2025-04-19 00:37:19,622 INFO: - polygon detections : No
+2025-04-19 00:37:20,508 INFO: MobileNetV2 Embedder for Deep Sort initialised
+2025-04-19 00:37:20,509 INFO: - gpu enabled: True
+2025-04-19 00:37:20,509 INFO: - half precision: True
+2025-04-19 00:37:20,509 INFO: - max batch size: 16
+2025-04-19 00:37:20,509 INFO: - expects BGR: True
+2025-04-19 00:37:20,572 INFO: DeepSort Tracker initialised
+2025-04-19 00:37:20,572 INFO: - max age: 30
+2025-04-19 00:37:20,572 INFO: - appearance threshold: 0.4
+2025-04-19 00:37:20,573 INFO: - nms threshold: OFF
+2025-04-19 00:37:20,573 INFO: - max num of appearance features: 50
+2025-04-19 00:37:20,573 INFO: - overriding track class : No
+2025-04-19 00:37:20,573 INFO: - today given : No
+2025-04-19 00:37:20,573 INFO: - in-build embedder : Yes
+2025-04-19 00:37:20,573 INFO: - polygon detections : No
+2025-04-19 00:37:29,469 INFO: Saved 0 tracks to embeddings.h5
+2025-04-19 00:37:53,102 INFO: Saved 0 tracks to embeddings.h5
