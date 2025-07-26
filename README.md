@@ -1,7 +1,7 @@
 # MultiCam-Surveillance: Person Tracking and Re-Identification System
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 https://github.com/user-attachments/assets/00e747d9-1b37-4097-b8d2-adac87326792
 
