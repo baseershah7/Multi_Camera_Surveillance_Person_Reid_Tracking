@@ -181,7 +181,13 @@ frame_interval: 0.033
 ```
 
 ## License
-This project is MIT licensed. See LICENSE for details.
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+You are free to use, modify, and distribute this code — for personal, academic, or commercial purposes — under the conditions of the Apache 2.0 license.  
+**Attribution is required**, and you must retain the original license and any associated NOTICE files in derivative works.
+
+© 2024 [Baseer Hassan Shah](https://github.com/baseershah7)
 
 ## Contributing
 Fork repository
